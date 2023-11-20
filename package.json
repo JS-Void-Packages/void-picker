@@ -1,0 +1,24 @@
+{
+  "name": "void-picker",
+  "version": "0.0.1",
+  "description": "pick elements to download as a zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Void-Packages/void-picker.git"
+  },
+  "keywords": [
+    "picker",
+    "void",
+    "resource-picker"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JS-Void-Packages/void-picker/issues"
+  },
+  "homepage": "https://github.com/JS-Void-Packages/void-picker#readme"
+}
